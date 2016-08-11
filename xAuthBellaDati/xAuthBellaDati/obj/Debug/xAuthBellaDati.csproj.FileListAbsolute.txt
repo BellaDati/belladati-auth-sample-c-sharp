@@ -1,0 +1,14 @@
+c:\users\karimt\documents\visual studio 2015\Projects\xAuthBellaDati\xAuthBellaDati\bin\Debug\xAuthBellaDati.exe.config
+c:\users\karimt\documents\visual studio 2015\Projects\xAuthBellaDati\xAuthBellaDati\obj\Debug\MainWindow.g.cs
+c:\users\karimt\documents\visual studio 2015\Projects\xAuthBellaDati\xAuthBellaDati\obj\Debug\App.g.cs
+c:\users\karimt\documents\visual studio 2015\Projects\xAuthBellaDati\xAuthBellaDati\obj\Debug\xAuthBellaDati_MarkupCompile.cache
+c:\users\karimt\documents\visual studio 2015\Projects\xAuthBellaDati\xAuthBellaDati\obj\Debug\xAuthBellaDati_MarkupCompile.lref
+c:\users\karimt\documents\visual studio 2015\Projects\xAuthBellaDati\xAuthBellaDati\bin\Debug\xAuthBellaDati.exe
+c:\users\karimt\documents\visual studio 2015\Projects\xAuthBellaDati\xAuthBellaDati\bin\Debug\xAuthBellaDati.pdb
+c:\users\karimt\documents\visual studio 2015\Projects\xAuthBellaDati\xAuthBellaDati\obj\Debug\MainWindow.baml
+c:\users\karimt\documents\visual studio 2015\Projects\xAuthBellaDati\xAuthBellaDati\obj\Debug\xAuthBellaDati.g.resources
+c:\users\karimt\documents\visual studio 2015\Projects\xAuthBellaDati\xAuthBellaDati\obj\Debug\xAuthBellaDati.Properties.Resources.resources
+c:\users\karimt\documents\visual studio 2015\Projects\xAuthBellaDati\xAuthBellaDati\obj\Debug\xAuthBellaDati.csproj.GenerateResource.Cache
+c:\users\karimt\documents\visual studio 2015\Projects\xAuthBellaDati\xAuthBellaDati\obj\Debug\xAuthBellaDati.exe
+c:\users\karimt\documents\visual studio 2015\Projects\xAuthBellaDati\xAuthBellaDati\obj\Debug\xAuthBellaDati.pdb
+C:\Users\KarimT\Documents\Visual Studio 2015\Projects\xAuthBellaDati\xAuthBellaDati\obj\Debug\xAuthBellaDati.csprojResolveAssemblyReference.cache
