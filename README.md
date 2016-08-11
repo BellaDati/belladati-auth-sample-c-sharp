@@ -2,4 +2,4 @@
 
 
 
-This repository is for authentication from C# to BellaDati service. It is based on xAuth.
+This repository is for authentication and api calls from C# to BellaDati service. It is based on xAuth.
